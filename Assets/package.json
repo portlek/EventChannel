@@ -5,7 +5,5 @@
   "unity": "2018.4",
   "description": "Event channel library for Unity.",
   "keywords": ["event", "event channel"],
-  "license": "MIT",
-  "changelogUrl": "https://github.com/portlek/EventChannel/releases",
-  "licensesUrl": "https://github.com/portlek/EventChannel/blob/master/LICENSE"
+  "license": "MIT"
 }
