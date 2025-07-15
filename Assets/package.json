@@ -1,0 +1,11 @@
+﻿{
+  "name": "io.github.portlek.eventchannel",
+  "displayName": "EventChannel",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Event channel library for Unity.",
+  "keywords": ["event", "event channel"],
+  "license": "MIT",
+  "changelogUrl": "https://github.com/portlek/EventChannel/releases",
+  "licensesUrl": "https://github.com/portlek/EventChannel/blob/master/LICENSE"
+}
