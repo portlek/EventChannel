@@ -1,4 +1,4 @@
 # EventChannel
 Event channel library for Unity.
 
-`https://github.com/portlek/EventChannel.git`
+`https://github.com/portlek/EventChannel.git?path=Assets`
