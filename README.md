@@ -66,7 +66,6 @@ You can easily create new types of channels and listeners for your own data stru
 **1. Create the Channel Script:**
 
 ```csharp
-// Assets/Scripts/Events/EventChannelMyCustomData.cs
 using UnityEngine;
 using EventChannel;
 
@@ -77,7 +76,6 @@ public class EventChannelMyCustomData : EventChannel<MyCustomData> {}
 **2. Create the Listener Script:**
 
 ```csharp
-// Assets/Scripts/Events/EventListenerMyCustomData.cs
 using EventChannel;
 
 public class EventListenerMyCustomData : EventListenerSerializedField<MyCustomData> {}
