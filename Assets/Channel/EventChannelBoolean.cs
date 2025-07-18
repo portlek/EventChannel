@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
 namespace EventChannel {
-[CreateAssetMenu(menuName = "Tower Defense/Events Channels/boolean")]
+[CreateAssetMenu(menuName = "Events Channels/boolean")]
 public class EventChannelBoolean : EventChannel<bool> { }
 }

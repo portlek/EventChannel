@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
 namespace EventChannel {
-[CreateAssetMenu(menuName = "Tower Defense/Events Channels/character")]
+[CreateAssetMenu(menuName = "Events Channels/character")]
 public class EventChannelCharacter : EventChannel<char> { }
 }
